@@ -1,18 +1,10 @@
 # 👋 Hi, I'm H J
 
-### AI Engineer | NLP | RAG | LLM Fine-tuning | Computer Vision
+### AI Engineer | NLP | RAG | LLM Fine-tuning | Agent
 
 생성형 AI와 NLP를 중심으로  
-RAG, LLM Fine-tuning, AI Agent, Computer Vision 기반 프로젝트를 개발하고 있습니다.
+RAG, LLM Fine-tuning, AI Agent, Chatbot 프로젝트를 개발하고 있습니다.
 
-실제 서비스를 고려한:
-- 멀티모달 AI 시스템
-- RAG 검색 최적화
-- Function Calling Agent
-- 실시간 AI 서비스 구축
-
-에 관심이 많으며,  
-문제를 데이터와 AI로 해결하는 것을 좋아합니다.
 
 ---
 
@@ -37,47 +29,19 @@ RAG, LLM Fine-tuning, AI Agent, Computer Vision 기반 프로젝트를 개발하
 - AI Agent
 - Function Calling
 - Multi-Agent System
-- Computer Vision
 - Multimodal AI
 
 ---
 
+
 # 📌 Main Projects
 
-## 🎨 Art Therapy Chatbot
-HTP(House-Tree-Person) 그림 검사 기반 멀티모달 심리 상담 챗봇 프로젝트
-
-### 주요 내용
-- 이미지 캡셔닝 + 객체 탐지
-- Cross Encoder 기반 RAG 검색 최적화
-- LoRA / Layer Freezing 기반 LLM 파인튜닝
-- FastAPI + React 기반 웹 서비스 구현
-
-👉 :contentReference[oaicite:0]{index=0}
-
----
-
-## 📈 InvestMario
-Function Calling 기반 AI Agent와 RAG 시스템을 활용한 가상화폐 자동매매 플랫폼
-
-### 주요 내용
-- Upbit / BingX API 연동
-- 뉴스 기반 RAG 검색
-- Function Calling Agent
-- 실시간 시장 분석 및 자동매매
-
-👉 :contentReference[oaicite:1]{index=1}
-
----
-
-## 🏃 Marathon VQA Agent
-영상 기반 VQA와 Computer Vision을 활용한 매크로 방지 티켓팅 시스템
-
-### 주요 내용
-- OpenCV 기반 동적 영상 생성
-- OCR 방지형 VQA 문제 생성
-- 실시간 사용자 검증
-- AI 기반 매크로 탐지
+| Project | Description | Tech Stack |
+|---|---|---|
+| 🎨 Art Therapy Chatbot | HTP(House-Tree-Person) 그림 검사 기반 멀티모달 심리 상담 챗봇 프로젝트 | RAG, Cross Encoder, LoRA, YOLOv8, FastAPI, React |
+| 📈 InvestMario | Function Calling 기반 AI Agent와 RAG 시스템을 활용한 가상화폐 자동매매 플랫폼 | Function Calling, RAG, FastAPI, React, PostgreSQL |
+| 🏃 Marathon VQA Agent | 영상 기반 VQA와 Computer Vision을 활용한 매크로 방지 티켓팅 시스템 | OpenCV, OCR, VQA, Computer Vision |
+| 📚 Financial Sanctions Graph RAG | 금융 제재 및 법률 데이터를 활용한 Graph RAG 기반 검색 시스템 | Graph RAG, Neo4j, Retriever, LLM |
 
 ---
 
@@ -86,8 +50,7 @@ Function Calling 기반 AI Agent와 RAG 시스템을 활용한 가상화폐 자�
 - Agentic AI
 - AI Service Architecture
 - Graph RAG
-- AI Automation
-- AI + Backend Engineering
+- Chatbot Service
 
 ---
 
@@ -100,5 +63,6 @@ Function Calling 기반 AI Agent와 RAG 시스템을 활용한 가상화폐 자�
 
 # ⚡ Motto
 
-> “AI는 단순 모델 개발이 아니라,  
-> 실제 문제를 해결하는 서비스가 되어야 한다고 생각합니다.”
+> “무엇을 만들지 결정하는 능력”과 
+> “사용자의 니즈를 파악하는 
+> 공감 능력”을 갖춘 엔지니어가 되자.
