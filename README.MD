@@ -1,4 +1,4 @@
-# 👋 Hi, I'm H J
+# 👋 HyoJun's Github
 
 ### AI Engineer | NLP | RAG | LLM Fine-tuning | Agent
 
