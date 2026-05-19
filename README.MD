@@ -21,15 +21,10 @@ RAG, LLM Fine-tuning, AI Agent, Chatbot 프로젝트를 개발하고 있습니�
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Transformers](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![GraphRAG](https://img.shields.io/badge/GraphRAG-6E56CF?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-### Interests
-- RAG (Retrieval-Augmented Generation)
-- LLM Fine-tuning
-- AI Agent
-- Function Calling
-- Multi-Agent System
-- Multimodal AI
 
 ---
 
@@ -38,19 +33,23 @@ RAG, LLM Fine-tuning, AI Agent, Chatbot 프로젝트를 개발하고 있습니�
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| 🎨 Art Therapy Chatbot | HTP(House-Tree-Person) 그림 검사 기반 멀티모달 심리 상담 챗봇 프로젝트 | RAG, Cross Encoder, LoRA, YOLOv8, FastAPI, React |
+| 🎨 Art Therapy Chatbot | HTP(House-Tree-Person) 그림 검사 기반 멀티모달 심리 상담 챗봇 프로젝트 | RAG, Cross Encoder, Embedding Model, LoRA, FastAPI, |
 | 📈 InvestMario | Function Calling 기반 AI Agent와 RAG 시스템을 활용한 가상화폐 자동매매 플랫폼 | Function Calling, RAG, FastAPI, React, PostgreSQL |
-| 🏃 Marathon VQA Agent | 영상 기반 VQA와 Computer Vision을 활용한 매크로 방지 티켓팅 시스템 | OpenCV, OCR, VQA, Computer Vision |
+| 🏃 Marathon VQA Agent | 영상 기반 VQA와 Agent를 활용한 매크로 방지 티켓팅 시스템 | OpenCV, OCR, VQA, LangGraph, Muilti-Agent |
 | 📚 Financial Sanctions Graph RAG | 금융 제재 및 법률 데이터를 활용한 Graph RAG 기반 검색 시스템 | Graph RAG, Neo4j, Retriever, LLM |
 
 ---
 
 # 📚 Interests
 
-- Agentic AI
-- AI Service Architecture
-- Graph RAG
-- Chatbot Service
+- RAG (Retrieval-Augmented Generation)
+- GraphRAG
+- LangGraph
+- LLM Fine-tuning
+- AI Agent
+- Function Calling
+- Multi-Agent System
+- Multimodal AI
 
 ---
 
