@@ -55,7 +55,7 @@ RAG, LLM Fine-tuning, AI Agent, Chatbot 프로젝트를 개발하고 있습니�
 
 # 📫 Contact
 
-- GitHub: :contentReference[oaicite:2]{index=2}
+- GitHub: https://github.com/HJJunn
 - Email: jhj00711@gmail.com
 
 ---
